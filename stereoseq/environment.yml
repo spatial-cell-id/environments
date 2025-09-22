@@ -411,5 +411,5 @@ dependencies:
       - pyscenic==0.12.1
       - pyvips==2.2.1
       - slideio==2.3.0
-      - stereopy==1.1.0
+      - stereopy==1.6.0
 prefix: /opt/conda/envs/st
